@@ -3078,6 +3078,126 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		Comfortaa-Bold12
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Bold16
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Bold24
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Bold32
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Bold48
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Bold64
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light12
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light16
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light24
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light32
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light48
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Comfortaa-Light64
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//
