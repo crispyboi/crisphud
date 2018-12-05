@@ -60,10 +60,10 @@
 		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
-		"wide"			"55"	[$WIN32]
+		"wide"			"0"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
 		"wide"			"35"	[$X360]
-		"tall"			"55"	[$WIN32]
+		"tall"			"0"	[$WIN32]
 		"tall_minmode"	"40"	[$WIN32]
 		"tall"			"35"	[$X360]
 		"visible"		"0"
